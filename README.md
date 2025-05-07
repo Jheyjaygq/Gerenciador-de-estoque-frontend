@@ -13,6 +13,6 @@ O sistema permite que usuários cadastrem, editem, excluam e busquem produtos, a
 - ➕ **Formulário para cadastrar novos produtos**  
 - ✏️ **Edição de produtos** já cadastrados  
 - ❌ **Remoção de produtos** com confirmação  
-- 🗂️ **Cadastro e seleção dinâmica de categorias**
+- 🗂️ **Cadastro de categorias**
 
 
